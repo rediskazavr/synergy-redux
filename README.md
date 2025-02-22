@@ -10,7 +10,7 @@ Fork of the synergy-engine project, with deepening for linux development
 
 ## Content
 * [Technologies](#Technologies)
-* [Quick Start](#Quick-Start-(Linux,-Debian-Like-system-only)
+* [Quick Start](#Quick-Start-(Linux, Debian-Like-system-only)
 * [Docs](#Docs)
 * [To do](#To-do)
 * [Team project](#Team-project)
