@@ -24,5 +24,4 @@ none
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## 📌 Sources
-> A game engine based on the [Hell2025 Engine](https://github.com/livinamuk/Hell2025), using Vulkan/OpenGL. Inspired by the idea of Source Engine. Not a commercial project!
-> [Official website of the project](https://rediskazavr.github.io/synergy-engine-site)
+> A fork of the closed synergy-engine project, without lua or windows support. Using OpenGL/Vulkan
