@@ -1,4 +1,4 @@
-<img src= "https://github.com/rediskazavr/synergy-redux/blob/master/preview.png" width="2560" heigth="1440">
+<img src= "https://github.com/rediskazavr/synergy-redux/blob/main/preview.png" width="2560" heigth="1440">
 
 [![GitHub Stars](https://img.shields.io/github/stars/rediskazavr/synergy-redux.svg?style=social&label=Star)](https://github.com/rediskazavr/synergy-redux)
 [![GitHub Forks](https://img.shields.io/github/forks/rediskazavr/synergy-redux.svg?style=social&label=Fork)](https://github.com/rediskazavr/synergy-redux)
@@ -8,16 +8,8 @@
 # Synergy-Redux
 Fork of the synergy-engine project, with deepening for linux development
 
-## Content
-* [Technologies](#Technologies)
-* [Quick Start](#Quick-Start-(Linux, Debian-Like-system-only)
-* [Docs](#Docs)
-* [To do](#To-do)
-* [Team project](#Team-project)
-* [Sources](#Sources)
-
 ## 💽 Technologies
-[![Technologies](https://skillicons.dev/icons?i=cpp,c,bash,lua,git,github,linux,windows,md,ass=&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=cpp,c,bash,rust,git,github,linux,ubuntu,md,ass=&theme=dark)](https://skillicons.dev)
 
 ## 📎 Quick Start (Linux, Debian-Like system only)
 🚧 In development!!!
